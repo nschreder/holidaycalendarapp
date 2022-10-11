@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Advent Calendar</title>
+  <link>https://github.com/nschreder/holidaycalendarapp</link>
+  <description>All predefined backgrounds for the Holiday Calendar Power App</description>
+  <item>
+    <title>White baubles and sleigh bells</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img1.jpg</link>
+  </item>
+  <item>
+    <title>White lamp with candle</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img2.jpg</link>
+  </item>
+  <item>
+    <title>Green pine tree</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img3.jpg</link>
+  </item>
+  <item>
+    <title>Winter decoration</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img4.jpg</link>
+  </item>
+  <item>
+    <title>Christmas tree</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img5.jpg</link>
+  </item>
+  <item>
+    <title>Landscape of Snow Covered Pine Trees</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img6.jpg</link>
+  </item>
+  <item>
+    <title>Orange and Blue and White Snow Forest</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img7.jpg</link>
+  </item>
+  <item>
+    <title>Snow Covered Trees Under the Blue Sky</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img8.jpg</link>
+  </item>
+  <item>
+    <title>Snowy Forest Aerial</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img9.jpg</link>
+  </item>
+  <item>
+    <title>Snowy Forest</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img10.jpg</link>
+  </item>
+  <item>
+    <title>Winter</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Backgrounds/img11.jpg</link>
+  </item>
+</channel>
+</rss>

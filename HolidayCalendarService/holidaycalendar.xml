@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Holiday Calendar</title>
+  <link>https://github.com/nschreder/holidaycalendarapp</link>
+  <description>All content packs for the Holiday Calendar Power App</description>
+  <item>
+    <title>Power Platform (English)</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/powerplatform_en.xml</link>
+    <description>Welcome to the Power Platform calendar 2022. 
+
+We have some great surprises which make your daily life with Power Platform much easier. 
+
+Check out the calendar every day and enjoy the holiday season!</description>
+  </item>
+  <item>
+    <title>Power Platform (Deutsch)</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/powerplatform_de.xml</link>
+    <description>Herzlich Willkommen beim Power Platform Kalender für 2022.
+
+Wir haben einige Überraschungen für Sie zusammengestellt, um Ihnen das Leben mit Power Platform zu vereinfachen.</description>
+  </item>
+  <item>
+    <title>Teams (English)</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/teams_en.xml</link>
+    <description>Welcome to the Teams calendar 2022. 
+
+We have some great surprises which make your daily life with Teams much easier. 
+
+Check out the calendar every day and enjoy the holiday season!</description>
+  </item>
+  <item>
+    <title>Teams (Deutsch)</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/teams_de.xml</link>
+    <description>Herzlich Willkommen beim Teams Kalender für 2022.
+
+Wir haben einige Überraschungen für Sie zusammengestellt, um Ihnen das Leben mit Teams zu vereinfachen.</description>
+  </item>
+</channel>
+</rss>
