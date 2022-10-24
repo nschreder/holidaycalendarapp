@@ -3,150 +3,125 @@
 <channel>
   <title>Power Platform (English)</title>
   <link>https://github.com/nschreder/holidaycalendarapp</link>
-  <description>This content pack highlights all great features and additional information about Power Platform</description>
-  <item>
-    <title>The best way to improve your meeting experience</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/1.png</link>
-    <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>What does everyone think?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/2.png</link>
-    <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Can you hear me now?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/3.png</link>
-    <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>With great power comes great responsibility</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/4.png</link>
-    <pubDate>Sun 04 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Let's continue this discussion in a breakout...</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/5.png</link>
-    <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>How to upload and share files in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=mRAmivNyj90</link>
-    <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+  <description>This content pack highlights all great features and additional information about Power Platform</description>  <item>
+    <title>What is Power Apps?</title>
+    <link>https://www.youtube.com/watch?v=OwOWDXteakM</link>
+    <pubDate>Thu, 1 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-  <item>
-    <title>A change so seamless, no one will know</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/7.png</link>
-    <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Stand out at your next presentation</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/8.png</link>
-    <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Teams Meeting Captions</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/9.png</link>
-    <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Managing your notifications with quiet hours</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/10.png</link>
+  </item>  <item>
+    <title>Lets get started and build an app!</title>
+    <link>https://make.powerapps.com/</link>
+    <pubDate>Fri, 2 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Click here for everything around certifications!</title>
+    <link>https://learn.microsoft.com/de-de/certifications/power-platform-fundamentals/</link>
+    <pubDate>Sat, 3 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>New career growth opportunities</title>
+    <link>https://powerup.microsoft.com/</link>
+    <pubDate>Sun, 4 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Better together: SAP + PowerPlatform</title>
+    <link>https://powerautomate.microsoft.com/en-us/blog/announcing-deeper-sap-integration-for-the-power-platform/</link>
+    <pubDate>Mon, 5 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Building Apps now got even more easy: AI Builder</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/app-from-image?source=recommendations</link>
+    <pubDate>Tue, 6 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>What's next in PowerApps? Future is collaborative</title>
+    <link>https://powerapps.microsoft.com/it-ch/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/#:~:text=Maker%20matching%20with%20an%20integrated%20virtual%20agent%20in,well%20as%20internal%20resources%20specific%20to%20an%20organization.</link>
+    <pubDate>Wed, 7 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Can PowerApps write code for you? Learn about PowerFx</title>
+    <link>https://www.youtube.com/watch?v=zbjKdzavPHk</link>
+    <pubDate>Thu, 8 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Video</category>
+  </item>  <item>
+    <title>Can Apps look beautiful? Design your Apps with Figma</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/figma/overview#design-your-app-in-figma</link>
+    <pubDate>Fri, 9 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Build a learning culture using low-code platform</title>
+    <link>https://cloudblogs.microsoft.com/powerplatform/2022/05/24/low-code-trend-report-2022-building-a-learning-culture-on-a-low-code-platform/</link>
     <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>How to change your background in Microsoft Teams, a demo tutorial</title>
-    <link>https://www.youtube.com/watch?v=vd7_Wtv-vXI</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>Did you miss the Ignite? Here's a recap</title>
+    <link>https://news.microsoft.com/ignite-2022-book-of-news/</link>
     <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Video</category>
-  </item>
-  <item>
-    <title>Inline translation</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/12.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>Making H&M successful with the Power Platform</title>
+    <link>https://customers.microsoft.com/en-us/story/1406720141896236093-hm-group-balances-power-platform-development-and-security</link>
     <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Managing your notifications with quiet hours</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/13.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>MS Virtual Training Days to build up some MS muscles</title>
+    <link>https://www.microsoft.com/en-us/trainingdays</link>
     <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>TToo. Many. Channel. At. Mentions.</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/14.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title> Tutorial & effective usage Employee ideas app</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/teams/employee-ideas</link>
     <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Bring your message to Life, with Emojis</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/15.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title> Tutorial & effective usage Get connected app</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/teams/get-connected</link>
     <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>How to send email to a channel in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=d5Dekg8NG5w</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>Use our Templates for Cloud Flows in Power Automate!</title>
+    <link>https://powerautomate.microsoft.com/de-de/templates/</link>
     <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Video</category>
-  </item>
-  <item>
-    <title>I don't want to @-mention everyone!</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/17.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>Take a breath, and think about 3 things you are grateful for!</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Power%20Platform%20English/17.jpg</link>
     <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>  
-  <item>
-    <title>Immersive Reader</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/18.png</link>
+  </item>  <item>
+    <title>Run on the Learning Path of MS Power Platform Fundamentals</title>
+    <link>https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/</link>
     <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>A Teams for every Tenant</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/19.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>How to create a canvas appfram a SharePoint List!</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/app-from-sharepoint</link>
     <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Hello... is it me you're looking for?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/20.png</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>Check out the summary of training material we have available for you!</title>
+    <link>https://powerplatform.microsoft.com/en-us/instructor-led-training/</link>
     <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>How to use Whiteboard in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=YBnojDFXo4k</link>
+    <category>Link</category>
+  </item>  <item>
+    <title>Anyone can be a developer? Yes, check this out --></title>
+    <link>https://www.youtube.com/watch?v=2dscy89ks9I</link>
     <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-  <item>
-    <title>Hang on... let me write that down</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/22.png</link>
+  </item>  <item>
+    <title>Express Design to create beautiful Apps! </title>
+    <link>https://www.youtube.com/watch?v=XH0XmwpqVuQ</link>
     <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>Going on Vacation?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/23.png</link>
-    <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
-    <category>Image</category>
-  </item>
-  <item>
-    <title>How to work in channels in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=7DSbBr7Xwfs</link>
-    <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-</channel>
+  </item>  <item>
+    <title>Get inspired by our Power Apps patterns! </title>
+    <link>https://learn.microsoft.com/de-de/power-apps/guidance/patterns/overview</link>
+    <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Check out our Power Platform In a Day workshops! </title>
+    <link>https://events.microsoft.com/en-us/allevents/?search=App%20in%20a%20Day&clientTimeZone=1&startTime=06:00&endTime=11:00&language=English</link>
+    <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item></channel>
 </rss>

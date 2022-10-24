@@ -3,150 +3,125 @@
 <channel>
   <title>Teams (Deutsch)</title>
   <link>https://github.com/nschreder/holidaycalendarapp</link>
-  <description>This content pack highlights all great features and additional information about Teams</description>
-  <item>
-    <title>The best way to improve your meeting experience</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/1.png</link>
-    <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+  <description>This content pack highlights all great features and additional information about Teams</description>  <item>
+    <title>Der beste Weg, das Meeting-Erlebnis zu verbessern 🤝</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/1.jpg</link>
+    <pubDate>Thu, 1 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>What does everyone think?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/2.png</link>
-    <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Schnell ein Stimmungsbild einholen🤷‍♂️🤷‍♀️</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/2.jpg</link>
+    <pubDate>Fri, 2 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Can you hear me now?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/3.png</link>
-    <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>“Hörst du mich jetzt?” 🔊</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/3.jpg</link>
+    <pubDate>Sat, 3 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>With great power comes great responsibility</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/4.png</link>
-    <pubDate>Sun 04 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Gemeinsam bessere Meetings organisieren 💪</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/4.jpg</link>
+    <pubDate>Sun, 4 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Let's continue this discussion in a breakout...</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/5.png</link>
-    <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Lass uns in einem Breakout Raum weiter diskutieren 🙏 </title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/5.jpg</link>
+    <pubDate>Mon, 5 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>How to upload and share files in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=mRAmivNyj90</link>
-    <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Dateien hochladen und bearbeiten</title>
+    <link>https://www.youtube.com/watch?v=TKZr5RslPx0&list=PLrjyRwm0bfX-J8a2QQyM8lPjfD5tuRia5</link>
+    <pubDate>Tue, 6 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-  <item>
-    <title>A change so seamless, no one will know</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/7.png</link>
-    <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Schnell Geräte in Teams Meetings wechseln🐱‍👤</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/7.jpg</link>
+    <pubDate>Wed, 7 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Stand out at your next presentation</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/8.png</link>
-    <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Mit der nächsten Präsentation herausstechen 😎</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/8.jpg</link>
+    <pubDate>Thu, 8 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Teams Meeting Captions</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/9.png</link>
-    <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+  </item>  <item>
+    <title>Live-Untertitel in Teams Meetings 📖 </title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/9.jpg</link>
+    <pubDate>Fri, 9 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Managing your notifications with quiet hours</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/10.png</link>
+  </item>  <item>
+    <title>Benachrichtigungen mit der Ruhezeit steuern🤐</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/10.jpg</link>
     <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>How to change your background in Microsoft Teams, a demo tutorial</title>
-    <link>https://www.youtube.com/watch?v=vd7_Wtv-vXI</link>
+  </item>  <item>
+    <title>Hintergrundbilder ändern und individualisieren</title>
+    <link>https://www.youtube.com/watch?v=MOgLVWYcCng</link>
     <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-  <item>
-    <title>Inline translation</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/12.png</link>
+  </item>  <item>
+    <title>Die Inline-Übersetzung in Teams 🔊</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/12.jpg</link>
     <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Managing your notifications with quiet hours</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/13.png</link>
+  </item>  <item>
+    <title>Verwalten von Benachrichtigungen für Teams 🔔 </title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/13.jpg</link>
     <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>TToo. Many. Channel. At. Mentions.</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/14.png</link>
+  </item>  <item>
+    <title>Zu viele @-mention Kanalerwähnungen?📢😭</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/14.jpg</link>
     <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Bring your message to Life, with Emojis</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/15.png</link>
+  </item>  <item>
+    <title>Erwecken Sie Ihre 📄 zum Leben, mit Emojis 🎆 </title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/15.jpg</link>
     <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>How to send email to a channel in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=d5Dekg8NG5w</link>
+  </item>  <item>
+    <title>Nachrichten referenzieren und weiterleiten</title>
+    <link>https://www.youtube.com/watch?v=O8XZHlp2yzI&list=PLrjyRwm0bfX-J8a2QQyM8lPjfD5tuRia5</link>
     <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-  <item>
-    <title>I don't want to @-mention everyone!</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/17.png</link>
+  </item>  <item>
+    <title>Vorbei die Zeit der Kanal-Markierung 🤦‍♂️</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/16.jpg</link>
     <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>  
-  <item>
-    <title>Immersive Reader</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/18.png</link>
+  </item>  <item>
+    <title>Der Plastische Reader in Teams 📖</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/17.jpg</link>
     <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>A Teams for every Tenant</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/19.png</link>
+  </item>  <item>
+    <title>Ein Microsoft Teams für jeden Account</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/18.jpg</link>
     <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Hello... is it me you're looking for?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/20.png</link>
+  </item>  <item>
+    <title>Hello… is it me you‘re looking for?🧐 </title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/19.jpg</link>
     <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>How to use Whiteboard in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=YBnojDFXo4k</link>
+  </item>  <item>
+    <title>Whiteboards effizient und simultan nutzen</title>
+    <link>https://www.youtube.com/watch?list=PLrjyRwm0bfX-J8a2QQyM8lPjfD5tuRia5&v=DhO9CGDHQMs&feature=emb_title</link>
     <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-  <item>
-    <title>Hang on... let me write that down</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/22.png</link>
+  </item>  <item>
+    <title>Warte… Lass mich das mitschreiben 📑</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/22.jpg</link>
     <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>Going on Vacation?</title>
-    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Images/23.png</link>
+  </item>  <item>
+    <title>Der nächste Urlaub steht bevor? ✈🚢</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Teams%20Deutsch/23.jpg</link>
     <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
     <category>Image</category>
-  </item>
-  <item>
-    <title>How to work in channels in Microsoft Teams</title>
-    <link>https://www.youtube.com/watch?v=7DSbBr7Xwfs</link>
+  </item>  <item>
+    <title>Kanäle erstellen und organisieren</title>
+    <link>https://www.youtube.com/watch?v=oSzjUdARBJQ&list=PLrjyRwm0bfX-J8a2QQyM8lPjfD5tuRia5</link>
     <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
     <category>Video</category>
-  </item>
-</channel>
+  </item></channel>
 </rss>
