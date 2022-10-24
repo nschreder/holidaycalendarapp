@@ -18,3 +18,5 @@ Welcome to the Holiday Calendar Power App. This Power App template provides an a
 There are two versions of the app available:
 - [Holiday Calendar with content packs](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendar.zip)
 - [Holiday Calendar template](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarTemplate.zip)
+
+Additional content packs can be found in the [templates section](https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Template)
