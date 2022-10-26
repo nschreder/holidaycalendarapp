@@ -9,7 +9,7 @@ Welcome to the Holiday Calendar Power App. This Power App template provides an a
 5. [More Power Platform content](#Interested-in-more-Power-Platform-content)
 
 ## Technical Requirements
-* Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
+* Power App Licence that is already included in E3/E5, no extra licence or premium connector neccessary
 * Default, Microsoft Teams or dedicated environment
 * RSS connector (optional, only for the pre-built app)
 * Microsoft Excel (optional, only for the template)
