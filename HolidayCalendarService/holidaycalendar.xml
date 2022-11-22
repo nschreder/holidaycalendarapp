@@ -52,5 +52,14 @@ Check out the calendar every day and enjoy the holiday season!</description>
 
 Wir haben einige Überraschungen für Sie zusammengestellt, um Ihnen das Leben mit Teams zu vereinfachen.</description>
   </item>
+  <item>
+    <title>Accessibility (English)</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/accessibility_en.xml</link>
+    <description>Welcome to the Accessibility calendar 2022. 
+
+We have some great surprises which make your daily life with Accessibility much easier. 
+
+Check out the calendar every day and enjoy the holiday season!</description>
+  </item>
 </channel>
 </rss>
