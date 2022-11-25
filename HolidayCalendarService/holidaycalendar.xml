@@ -60,6 +60,12 @@ Wir haben einige Überraschungen für Sie zusammengestellt, um Ihnen das Leben m
 We have some great surprises which make your daily life with Accessibility much easier. 
 
 Check out the calendar every day and enjoy the holiday season!</description>
+  </item>  <item>
+    <title>Dynamics 365 Sales (Deutsch)</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/dynamics_de.xml</link>
+    <description>Herzlich Willkommen beim Dynamics 365 Sales Kalender für 2022.
+
+Wir haben einige Überraschungen für Sie zusammengestellt, um Ihnen das Leben mit Dynamics 365 zu vereinfachen.</description>
   </item>
 </channel>
 </rss>

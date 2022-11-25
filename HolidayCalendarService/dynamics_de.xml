@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Dynamics 365 Sales</title>
+  <link>https://github.com/nschreder/holidaycalendarapp</link>
+  <description>This content pack highlights all great features and additional information about Dynamics 365</description>  <item>
+    <title>Gestalte deine eigenen Views in Dynamics.</title>
+    <link>https://powerapps.microsoft.com/en-us/blog/create-personal-views-in-unified-interface-through-advanced-filtering-for-grids/</link>
+    <pubDate>Thu, 1 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Apps in Microsoft Teams integrieren: So funktioniert's.</title>
+    <link>https://news.microsoft.com/de-de/apps-in-microsoft-teams-integrieren-so-funktionierts/</link>
+    <pubDate>Fri, 2 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Dynamics in Outlook integrieren.</title>
+    <link>https://learn.microsoft.com/de-de/dynamics365/outlook-addin/user-guide/set-up</link>
+    <pubDate>Sat, 3 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Erstelle Insight Cards für einen noch effizienteren Arbeitsalltag.</title>
+    <link>https://learn.microsoft.com/en-us/dynamics365/sales/action-cards-reference</link>
+    <pubDate>Sun, 4 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Erhalte eine wöchentliche Zusammenfassung deiner D365 Opportunities.</title>
+    <link>https://www.youtube.com/watch?v=3l32GWwDHSI</link>
+    <pubDate>Mon, 5 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Video</category>
+  </item>  <item>
+    <title>Sind deine Kundenkontakte vollständig?</title>
+    <link>https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Dynamics%20365%20Sales/6.jpg</link>
+    <pubDate>Tue, 6 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item>  <item>
+    <title>Customer Success Story: Einsatz von Gamification zur Vereinheitlichung der PERI Vertriebsabteilung</title>
+    <link>https://customers.microsoft.com/en-us/story/1335554391343413084-peri-dynamics-microsoft-365-en</link>
+    <pubDate>Wed, 7 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Werfe einen Blick ins Book of News der Microsoft Ignite 2022. </title>
+    <link>https://news.microsoft.com/ignite-2022-book-of-news/de/</link>
+    <pubDate>Thu, 8 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Entdecke unser vielfältiges Angebot zu D365 Webinaren. </title>
+    <link>https://www.microsoft.com/de-de/webinare/default.aspx?search=&filter-product=Dynamics+365&view=grid&top=12</link>
+    <pubDate>Fri, 9 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Sind deine Aktivitäten auf dem neuesten Stand?</title>
+    <link>https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Dynamics%20365%20Sales/11.jpg</link>
+    <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item>  <item>
+    <title>Was gab es neues auf der Microsoft Ignite? </title>
+    <link>https://ignite.microsoft.com/de-DE/sessions?t=%257B%2522from%2522%253A%25222022-10-12T00%253A00%253A00%252B02%253A00%2522%252C%2522to%2522%253A%25222022-10-14T23%253A59%253A59%252B02%253A00%2522%257D&g=%255B%257B%2522name%2522%253A%2522on-demand%2522%252C%2522enabled%2522%253Afalse%257D%255D</link>
+    <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Zertifizierungen gibt es hier.</title>
+    <link>https://learn.microsoft.com/de-de/certifications/browse/?products=dynamics-365</link>
+    <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Microsoft Virtual Training Days zum Lernen nutzen</title>
+    <link>https://events.microsoft.com/en-us/mvtd-dynamics365?language=Deutsch&language=English&clientTimeZone=1&startTime=08:00&endTime=17:00</link>
+    <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Gratuliere einer /einem Kollegin/ Kollegen zu einer gewinnnen Opportunity.</title>
+    <link>https://learn.microsoft.com/en-us/dynamics365/sales/teams-integration/teams-collaboration</link>
+    <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Nimm dir 5 Minuten und denke darüber nach wofür du heute dankbar bist!</title>
+    <link>https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Dynamics%20365%20Sales/15.jpg</link>
+    <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item>  <item>
+    <title>Arbeite mit Dashboards.</title>
+    <link>https://learn.microsoft.com/en-us/dynamics365/sales/dashboards</link>
+    <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Navigiere durch D365 innerhalb von Outlook.</title>
+    <link>Basic navigation in App for Outlook (Dynamics 365 apps) | Microsoft Learn</link>
+    <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Hier findet ihr ein paar spannende Trainingsmaterialien</title>
+    <link>https://learn.microsoft.com/en-us/training/dynamics365/</link>
+    <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Probiere die neue D365 Sales App für dein Smartphone aus.</title>
+    <link>https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Dynamics%20365%20Sales/19.jpg</link>
+    <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item>  <item>
+    <title>Erstelle deinen eigenen Flow.</title>
+    <link>Create a cloud flow with Dynamics 365 (online) - Power Automate | Microsoft Learn</link>
+    <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Binde deinen Teams Chat in Dynamics 365 ein.</title>
+    <link>https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/sales/dynamics365-sales/engage-teams-chat-conversation-within-dynamics</link>
+    <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Update deine Sales Stage.</title>
+    <link>https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Dynamics%20365%20Sales/22.jpg</link>
+    <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item>  <item>
+    <title>Lass dich inspirieren und schau dir unsere Kundenstorys an!</title>
+    <link>https://customers.microsoft.com/de-de/search?sq=&ff=language%26%3EDeutsch%26%26story_product_categories%26%3EPower%20Apps&p=0&so=story_publish_date%20desc</link>
+    <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Fröhliche Weihnachten!</title>
+    <link>https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Dynamics%20365%20Sales/24.jpg</link>
+    <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item></channel>
+</rss>
