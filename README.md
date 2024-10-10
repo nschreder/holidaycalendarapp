@@ -11,7 +11,6 @@ Welcome to the Holiday Calendar Power App. This Power App template provides an a
 ## Technical Requirements
 * Power App Licence that is already included in E3/E5, no extra licence or premium connector neccessary
 * Default, Microsoft Teams or dedicated environment
-* RSS connector (optional, only for the pre-built app)
 * Microsoft Excel (optional, only for the template)
 * Screen resolution of 1366x768 pixels (minimum)
 
