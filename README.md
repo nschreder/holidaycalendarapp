@@ -19,7 +19,12 @@ Welcome to the Holiday Calendar Power App. This Power App template provides an a
 There are two versions of the app available:
 - [Holiday Calendar with Microsoft 365 Copilot content pack in English](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarEN.zip)
 - [Holiday Calendar with Microsoft 365 Copilot content pack in German](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarDE.zip)
-- [Holiday Calendar template](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarTemplate.zip)
+[//]: # (- [Holiday Calendar with Microsoft 365 Copilot content pack in Italian](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarIT.zip) (with special credits to [Ilario Patera]()))
+[//]: # (- [Holiday Calendar with Microsoft 365 Copilot content pack in Dutch](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarNL.zip) (with special credits to [Cenzgizhan Can]()))
+[//]: # (- [Holiday Calendar with Microsoft 365 Copilot content pack in Portuguese](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarPT.zip) (with special credits to [Nuno Oliveira Costa]()))
+[//]: # (- [Holiday Calendar with Microsoft 365 Copilot content pack in Spanish](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarES.zip) (with special credits to [Juan Miguel Hernandez Arquero]()))
+[//]: # (- [Holiday Calendar with Microsoft 365 Copilot content pack in Slovenian](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarSL.zip) (with special credits to [Ana Lampret]()))
+[//]: # (- [Holiday Calendar template](https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarApp/HolidayCalendarTemplate.zip))
 
 Additional content packs can be found in the [templates section](https://github.com/nschreder/holidaycalendarapp/tree/main/HolidayCalendarService/Template).
 
